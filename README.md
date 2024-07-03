@@ -1,6 +1,9 @@
-## Hi there 👋
-
+- Hi there 👋
+- 👩🏻‍🎓 Student at Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
+- 💕 Kotlin lover
+- 🌱 Currently learning PHP
 <!--
+
 **Klara-Iva/Klara-Iva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
